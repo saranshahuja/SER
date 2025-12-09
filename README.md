@@ -63,6 +63,6 @@ The experiments are variations on the same recipe: extract stable acoustic featu
 ## Citing this work
 If you build on these experiments, please cite the associated paper:
 
-> S. [Author Names], "Temporal Parallel CNN Transformer Model with Integrated Attention Mechanism for Speech Emotion Recognition," *IEEE Access*, 2023, doi:10.1109/ACCESS.2023.3303179. [Link to paper](https://ieeexplore.ieee.org/document/10195078)
+> S. Ahuja , A. Shabani  "Affective Computing for Social Companion Robots Using Fine-grained Speech Emotion Recognition" [Link to paper](https://ieeexplore.ieee.org/document/10195078)
 
 Feel free to open issues or extend the notebooks with your own architectures and datasets.
